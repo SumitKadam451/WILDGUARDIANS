@@ -36,7 +36,7 @@ Welcome to the Rescuing Wildlife website, where every click makes a difference i
 ![App Screenshot](https://github.com/SumitKadam451/WILDGUARDIANS/blob/main/Screenshot-3.png)
 ## Demo
 
-Check out the live demo of [WILDGUARDIANS](https://sumitkadam451.github.io/WILDGUARDIANS/)
+Check out the live demo of [WILDGUARDIANS](https://wildguardians.pages.dev/)
 
 
 ## 🚀 About Me
